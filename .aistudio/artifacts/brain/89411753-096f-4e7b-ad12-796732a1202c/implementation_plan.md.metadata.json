@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação completo para o WinTools Pro (Ferramentas do Windows), incluindo a suíte web interativa com simulação de terminal, gerenciador de 12 categorias de comandos CMD/PowerShell, favoritos, gerador de scripts (.bat e .ps1), ajuste de brilho WMI, atalhos rápidos do sistema, diagnóstico e relatório em 1 clique, além da exportação completa do código desktop em Python com CustomTkinter e do script autônomo em PowerShell puro.",
+  "updatedAt":  "2026-10-29T02:57:58.514650566Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

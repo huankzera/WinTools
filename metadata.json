@@ -1,0 +1,6 @@
+{
+  "name": "WinTools Pro - Ferramentas do Windows",
+  "description": "Suíte moderna de ferramentas do Windows, comandos CMD/PowerShell, terminal interativo, gerador de scripts e código desktop CustomTkinter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
